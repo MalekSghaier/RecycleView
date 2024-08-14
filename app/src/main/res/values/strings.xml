@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name="programming_languages">
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>JavaScript</item>
+        <item>PhP</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+    </string-array>
+    <string-array name="description">
+        <item>Structure de page web.</item>
+        <item>Style des pages web.</item>
+        <item>Interactivité web.</item>
+        <item>Programmation serveur web.</item>
+        <item>Polyvalent, orienté objet.</item>
+        <item>Polyvalent, facile, puissant.</item>
+        <item>Dynamique, orienté objet.</item>
+        <item>Apple, développement d applications.</item>
+    </string-array>
+</resources>
